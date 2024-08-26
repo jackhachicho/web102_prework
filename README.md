@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/codepath-web-102-jack-h-VAgp8IT' title='Jack Hachicho Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://imgur.com/a/codepath-web-102-jack-h-VAgp8IT](https://imgur.com/a/codepath-web-102-jack-h-VAgp8IT)' title='Jack Hachicho Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Imgur
